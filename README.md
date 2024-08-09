@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I’m Advait Darbare
 
-<!--
-**AdvaitDarbare/AdvaitDarbare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👀 Interests
+- Backend development
+- Cloud computing
+- Machine learning
 
-Here are some ideas to get you started:
+### 🌱 Currently Learning
+- Node.js
+- Express.js
+- MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💞️ Collaboration
+- Open to collaborating on backend development and cloud technologies projects
+
+### 🎓 Education
+- **B.S. in Computer Science** - Arizona State University, Tempe, AZ
+  - Graduating May 2026
+  - **Completed Courses**: Data Structures and Algorithms, Object-Oriented Programming, Computer Organization and Assembly Language Programming, Digital Design Fundamentals, Information Assurance, Applied Linear Algebra, Discrete Mathematical Structures
+  - **In Progress**: Software Engineering, Operating Systems, Theoretical Computer Science
+
+### 💼 Technical Skills
+- **Certifications**: AWS Certified Cloud Practitioner
+- **Programming Languages**: Java, C, C++, Python, SQL, HTML, CSS, JavaScript
+- **Frameworks**: Spring Boot, Node.js, Express.js, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, TensorFlow, PySpark
+- **Tools**: MySQL, Postman, Git, Lucidchart, Unified Modeling Language, RESTful API Development, Agile Methodologies, AWS (EC2, Elastic Beanstalk, RDS, Parameter Store, VPC, CloudWatch, Route 53, S3), Databricks Notebooks
+
+### 📫 Reach Me
+- Via my [LinkedIn](https://www.linkedin.com/in/advait-darbare)
+
+### 😄 Pronouns
+- He/Him
+
+### ⚡ Fun Fact
+- I enjoy hiking and exploring nature trails when I'm not coding!
