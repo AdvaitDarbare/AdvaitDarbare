@@ -28,8 +28,5 @@
 ### 📫 Reach Me
 - Via my [LinkedIn](https://www.linkedin.com/in/advait-darbare)
 
-### 😄 Pronouns
-- He/Him
-
 ### ⚡ Fun Fact
-- I enjoy hiking and exploring nature trails when I'm not coding!
+- I enjoy biking and watching films when I'm not coding!
