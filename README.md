@@ -9,7 +9,7 @@
 - Node.js
 - Express.js
 - MongoDB
-- Mongoose
+- GraphQL
 
 ### 💞️ Collaboration
 - Open to collaborating on backend development and cloud technologies projects
