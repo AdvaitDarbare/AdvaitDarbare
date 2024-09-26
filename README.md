@@ -1,4 +1,5 @@
-# Hi there 👋, I'm Advait Darbare
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=00CEF7&lines=Hi+there+👋,+I'm+Advait+Darbare;&center=true&vCenter=true&pause=1000&width=500&height=70&repeat=false)](https://git.io/typing-svg)
+
 
 ### 👀 **Passions**
 - Building scalable **backend systems**
