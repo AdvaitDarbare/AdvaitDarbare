@@ -68,8 +68,6 @@
 ### ⚡ **Fun Fact**
 - I enjoy biking and watching films when I'm not coding!
 
-### 🎧 **Currently Listening To**
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31dglwvao642oi644uyysny2fdqq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 
 
