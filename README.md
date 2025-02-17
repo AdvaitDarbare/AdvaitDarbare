@@ -7,7 +7,7 @@
 
 ### 🌱 **Learning**
 - Advancing in **Node.js**, **Express.js**, **MongoDB**
-- Exploring **GraphQL** for better APIs
+- Exploring **Retrieval-Augmented Generation (RAG)**
 
 ### 💞️ **Open to Collaborate On**
 - **Backend projects** with a focus on APIs
