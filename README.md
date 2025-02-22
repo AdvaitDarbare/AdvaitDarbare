@@ -2,7 +2,7 @@
 
 
 ### 👀 **Passions**
-- Building scalable **backend systems**
+- Building scalable **backend applications**
 - Utilizing **cloud computing** and **machine learning**
 
 ### 🌱 **Learning**
