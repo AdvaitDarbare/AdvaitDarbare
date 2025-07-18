@@ -7,25 +7,24 @@
 - Applying **cloud computing**, **OpenAI**, and **machine learning** to real-world problems
 
 ### 🌱 **Learning**
-- Building intelligent **AI agents** using LangChain, Ollama, FAISS, and OpenAI  
+- Building intelligent **AI agents** using LangChain, LangGraph, Ollama, FAISS, and OpenAI  
 - Implementing **multi-agent collaboration** with MCP for context-aware async workflows  
 - Applying LLMs to **automate summaries**, **organize team updates**, and structure conversations  
 - Exploring **semantic search**, **embeddings**, and **memory** for multi-turn interactions
 
 ### 💞️ **Open to Collaborate On**
-- **LLM-based AI agents** (LangChain + FAISS + Ollama + OpenAI)
+- **LLM-based AI agents**
 - **MCP-powered ecosystems** for async collaboration and automation
 - **Cloud-native applications** with scalable backend APIs
 
 ### 🎓 **Education**
-- **B.S. in Computer Science**, Arizona State University 🔱 (Graduating May 2026)  
-  GPA: 3.91
+- **B.S. in Computer Science**, Arizona State University 🔱 (Graduating May 2026)
 
 ---
 
 ### 🛠️ **Technical Skills**
 
-- 🎓 **Certifications**: ![AWS](https://img.shields.io/badge/AWS-Cloud_Practitioner-232F3E?logo=amazon-aws&logoColor=white)
+- 🎓 **Certifications**: AWS Certified Cloud Practitioner  
 
 - 💻 **Languages**:  
   ![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)
@@ -39,11 +38,12 @@
   ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
 
 - 🚀 **Frameworks & Libraries**:  
+  ![LangGraph](https://img.shields.io/badge/LangGraph-5C2D91?logo=python&logoColor=white)
+  ![LangChain](https://img.shields.io/badge/LangChain-3e3e3e?logo=python&logoColor=white)
+  ![MCP](https://img.shields.io/badge/MCP-Multi_Agent_Framework-0052CC?logo=protocols&logoColor=white)
   ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=spring-boot&logoColor=white)
   ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
   ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
-  ![LangChain](https://img.shields.io/badge/LangChain-3e3e3e?logo=python&logoColor=white)
-  ![MCP](https://img.shields.io/badge/MCP-Multi_Agent_Framework-0052CC?logo=protocols&logoColor=white)
   ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?logo=apache-spark&logoColor=white)
   ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
   ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
