@@ -7,7 +7,7 @@
 - Applying **cloud computing**, **OpenAI**, and **machine learning** to real-world problems
 
 ### 🌱 **Learning**
-- Building intelligent **AI agents** using LangChain, LangGraph, Ollama, FAISS, and OpenAI  
+- Building intelligent **AI agents** using LangChain, LangGraph, Ollama, FAISS, ClaudeAI, OpenAI  
 - Implementing **multi-agent collaboration** with MCP for context-aware async workflows  
 - Applying LLMs to **automate summaries**, **organize team updates**, and structure conversations  
 - Exploring **semantic search**, **embeddings**, and **memory** for multi-turn interactions
