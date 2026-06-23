@@ -40,9 +40,6 @@ Pandas • NumPy • MLflow • FAISS
 ### 📊 Data Engineering
 PySpark • Airflow • dbt • DuckDB • PostgreSQL • Snowflake • Databricks
 
-### 🎨 Frontend
-React • Next.js • TypeScript • Tailwind CSS • Streamlit
-
 ### ☁️ DevOps & Cloud
 AWS • Docker • CI/CD • Git • JUnit
 
